@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      body: ["Poppins", "sans-serif"],
+      display: ["Lora", "serif"]
+    }
   },
   darkMode: 'class',
   plugins: [],
